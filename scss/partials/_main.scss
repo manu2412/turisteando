@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2? familia= Nunito+Sans & display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+main {
+    background-color: rgb(104, 193, 228);
+}
+
+@media (orientation: portrait) {
+    .hero {
+        background-image: url("../img/travel2.jpg");
+    }
+}
+
+.main-servicios {
+    padding: 2rem;
+}

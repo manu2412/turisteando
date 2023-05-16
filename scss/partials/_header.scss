@@ -1,0 +1,19 @@
+.link {
+    text-decoration: none;
+    padding: 1rem;
+    background-color: darkslategrey;
+    color: blanchedalmond;
+    display: inline-block;
+}
+
+@media (max-width: 480px) {
+    .d-block {
+       height: 200px;
+    }
+   
+   }
+   
+   .carousel-item {
+       /*height: 300px;*/
+       width: 100;
+   }
