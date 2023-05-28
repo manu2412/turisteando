@@ -139,7 +139,6 @@ main {
 
 p {
   text-align: center;
-  padding: 0.5rem;
 }
 
 @media (max-width: 480px) {
@@ -190,6 +189,13 @@ h1 {
   color: rgb(252, 248, 248);
   text-align: center;
   background-color: rgb(131, 180, 165);
+}
+
+h2 {
+  color: rgb(252, 248, 248);
+  text-align: center;
+  background-color: rgb(131, 180, 165);
+  padding: 1rem;
 }
 
 .tarjeta-imagen {
